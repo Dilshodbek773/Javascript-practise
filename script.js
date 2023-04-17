@@ -97,5 +97,7 @@ console.log(Dilshodbek);*/
 // console.log(++a);//14
 // console.log(a);//14
 
-let saved = prompt("What?",'');
-console.log(saved);
+// let saved = prompt("What?",'');
+// console.log(saved);
+
+
